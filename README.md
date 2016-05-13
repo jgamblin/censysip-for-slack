@@ -1,6 +1,7 @@
-# censysip-for-slack
+## censysip-for-slack
 
 Custom slash command to do censys.io IP lookups from within Slack
+
 ## REQUIREMENTS
 
 * A custom slash command on a Slack team
@@ -22,3 +23,7 @@ Custom slash command to do censys.io IP lookups from within Slack
 
 This is built off of the work of isitup-for-slack. Check out their stuff:
 https://github.com/mccreath/isitup-for-slack/
+
+## WARNING
+
+Programing might be science; but that's not what I do. I'm a hacker, not a programmer.
